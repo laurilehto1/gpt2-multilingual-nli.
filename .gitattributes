@@ -1,3 +1,4 @@
 XNLI-1.0/ filter=lfs diff=lfs merge=lfs -text
 XNLI-MT-1.0/**/* filter=lfs diff=lfs merge=lfs -text
 XNLI-1.0/**/*/ filter=lfs diff=lfs merge=lfs -text
+*.pt filter=lfs diff=lfs merge=lfs -text
